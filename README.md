@@ -4,7 +4,7 @@ Token will be built using OpenZeppelin, an open source library for secure Smart 
 
 ## Try it
 
-[https://github.com/9top/Token)
+https://github.com/9top/Token
 
 ## License
 
